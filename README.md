@@ -1,5 +1,3 @@
----
-
 ## 📌 README 
 
 **Steganografi** is a simple Python project that implements *data hiding techniques* to embed secret text into an image file without visibly changing the image. The goal of this repository is to demonstrate how steganography works by encoding and decoding hidden messages using Python. ([GitHub][1])
@@ -39,5 +37,3 @@ Replace the input text file or image as needed to hide different messages.
 * `input.png` — sample cover image
 * `lorem_*.txt` — sample text files to hide
 * `stego_output*.png` — result images containing hidden data
-
----
